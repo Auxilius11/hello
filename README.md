@@ -1,5 +1,6 @@
 # Hello
-###Everyone Say Hello
+Everyone Say Hello
+
 
 ## Instructions
 * *open git bash (Windows) or terminal (Mac / Linux)*
