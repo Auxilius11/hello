@@ -3,7 +3,8 @@ Everyone Say Hello
 
 ##
 ## Instructions
-* *open git bash (Windows) or terminal (Mac / Linux)*
+* *install and setup* [**git**](https://help.github.com/articles/set-up-git/)
+* *open Git Shell (Windows) or terminal (Mac / Linux)*
 * `git clone https://github.com/LRHS/hello.git` *clones repository to your local files*
 * *add your name to* **members.txt**
 * `cd hello/` *go into the project folder in terminal*
