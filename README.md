@@ -14,5 +14,5 @@ Everyone Say Hello
 * `git push` *sends all changes online*
 
 ## Notes
-* `git status` and `git status -v` *shows what changes have been made locally*
+* `git status` and `git status -v` *show what changes have been made locally*
 * `git pull` *syncs local project with changes made online*
